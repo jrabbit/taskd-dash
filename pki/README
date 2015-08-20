@@ -1,1 +1,5 @@
 Dump your keys and certs here for taskd-dash to find them.
+taskd-dash looks for:
+    pki/client.cert.pem
+    pki/client.key.pem
+    pki/ca.cert.pem

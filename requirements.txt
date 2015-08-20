@@ -1,4 +1,5 @@
 argparse==1.2.1
 bottle==0.12.8
+humanize==0.5.1
 taskc==0.0.2a2
 wsgiref==0.1.2
